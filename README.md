@@ -63,10 +63,6 @@ This is a decentralized application (DApp) built with React and Ethereum smart c
 3. Transfer: Transfers tokens from the user's address to another address.
 4. Burn: Allows the user to burn their tokens, reducing the total supply.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Contact
 
 ### Email : maverickswatantra@gmail.com
